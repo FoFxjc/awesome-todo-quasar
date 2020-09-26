@@ -1,0 +1,24 @@
+{
+  "tasks": {
+    "6QGLJmhXBUfjsSPul9C6dmK00SV2": {
+      "ID1": {
+        "name": "Go to shop",
+        "completed": false,
+        "dueDate": "2020/08/30",
+        "dueTime": "18:30"
+      },
+      "ID2": {
+        "name": "Get bananas",
+        "completed": false,
+        "dueDate": "2020/08/31",
+        "dueTime": "19:30"
+      },
+      "ID3": {
+        "name": "Go apples",
+        "completed": false,
+        "dueDate": "2020/08/31",
+        "dueTime": "20:30"
+      }
+    }
+  }
+}
