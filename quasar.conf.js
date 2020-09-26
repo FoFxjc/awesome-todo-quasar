@@ -6,7 +6,7 @@
 // Configuration for your app
 // https://quasar.dev/quasar-cli/quasar-conf-js
 
-module.exports = function(/* ctx */) {
+module.exports = function(ctx) {
   return {
     // https://quasar.dev/quasar-cli/supporting-ts
     supportTS: false,
