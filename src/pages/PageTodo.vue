@@ -76,7 +76,7 @@ export default {
   }
 }
 </script>
-<style lang="scss" scoped>
+<style lang="scss">
 .q-scroll-area-tasks {
   display: flex;
   flex-grow: 1;
